@@ -15,4 +15,12 @@ def resta():
     c=a-b
     print("el resulatdo de la resta es :",c)
 resta()
+   
+def multi():
+    a=4
+    b=8
+    c=a*b
+    print("el resultado de la multi es :",c)
+multi()
+    
     
